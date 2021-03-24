@@ -2494,7 +2494,7 @@ body.ie ._ibg img {
 }
 
 .form-order__select .select__value::before {
-  background-image: url(../../img/header/arrow.svg);
+  background-image: url(../img/header/arrow.svg);
 }
 
 .form-order__select .select__options {
@@ -2799,7 +2799,7 @@ body.ie ._ibg img {
   width: 24px;
   height: 24px;
   border-radius: 50%;
-  background: url("../../img/control/checkmark-green.svg") center/contain no-repeat;
+  background: url("../img/control/checkmark-green.svg") center/contain no-repeat;
   position: absolute;
   left: 0;
   top: 50%;
